@@ -1,0 +1,59 @@
+.usuario-list{
+    margin: 50px auto 0;
+    padding: 0 20px;
+    max-width: 700px;
+   
+}
+.usuario-list div{
+    margin: 50px auto 0;
+    padding: 0 10px;
+    max-width: 700px;
+}
+.usuario-list h5{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    
+}
+
+.usuario-list article{
+
+    background: aliceblue;  
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+    
+.usuario-list article p{
+    font-size: 10px;
+    color: dimgray;
+    margin-top: 1px;
+    line-height: 24px;
+}
+ 
+.usuario-list article a{
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid rgb(12, 12, 12);
+    background: none;
+    margin-top: 10px;
+    color: rgb(251, 250, 252);
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.usuario-list article a:hover{
+    background: rgb(87, 87, 114);
+    color: #fff;
+}
+
+.usuario-list strong{
+    font-size:  30px;
+    height: 5px;
+}
+

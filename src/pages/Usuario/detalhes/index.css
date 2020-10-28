@@ -1,0 +1,46 @@
+.usuario-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    background: #ffffff; 
+    border: 1px solid rgb(139, 139, 139);
+    border-radius: 5px;
+}
+ 
+.usuario-info h1 {
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.usuario-info p {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+    line-height: 24px;
+
+}
+
+.usuario-info article{
+
+    background: a#d6d8d9; 
+    border: 1px solid a#d6d8d9; 
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+    
+}
+
+.usuario-list article p{
+
+    background: rgb(17, 17, 17);
+    color: #fff;
+    
+}
+
+.usuario-info button{
+
+    margin: 2px;
+}
